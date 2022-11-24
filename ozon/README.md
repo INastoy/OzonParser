@@ -15,4 +15,5 @@ Android 12               4
 ```
 
 #Установка:
-1. 
+1. pip install -r requirements.txt
+2. python3 ozon/main.py
